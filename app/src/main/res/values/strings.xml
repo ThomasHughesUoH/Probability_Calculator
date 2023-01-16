@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Probability Calculator</string>
+    <string name="run_program">Run Program For Set No - 16</string>
+    <string name="run_program_all">Run Program For All Possibilities</string>
+    <string name="run_program_1617">Run Program For Two Set No - 16,17</string>
+    <string name="enter_number_one">Enter Number One</string>
+    <string name="enter_number_two">Enter Number Two</string>
+    <string name="submit_numbers">Submit Numbers</string>
+    <string name="create_graph">Create Graph</string>
+</resources>
